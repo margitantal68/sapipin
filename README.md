@@ -1,4 +1,4 @@
-# sapipin
+# SapiPin
 
 The dataset was collected in 2021 in an uncontrolled environment and contains 6-digit PIN typing of 112 voluntary participants.
 Each subject typed in a randomly generated 6-digit PIN code 20 times on his/her own mobile device.
